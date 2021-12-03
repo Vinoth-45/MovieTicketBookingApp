@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    display: block;
+    height: 100vh;
+
+    
+    
+    
+}
+.index-align
+{
+    display: block;
+}
+.navbar
+{
+position: relative;
+}
+.searchbox
+{
+    position:relative;
+    display: block;
+}
